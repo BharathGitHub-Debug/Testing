@@ -1,0 +1,21 @@
+harika cognizant:
+
+1.Tell me about Yourself
+2.Current Company name
+3.Where it is located.
+4.what are the langugaes and tools you used in your project.
+5.Do you have any knowledge in Health care
+6.How much your Notice period
+7. Explain Stlc Process
+8.Explain regression Suite
+9.How many test cases you written
+10.How many test cases related to Regreesion
+11.on what basis you select the Regression cases
+12.on what basis you select the remaining test cases are not related to Regression.
+13.what type of automation you do
+14.which testing is better manual or automation
+15.what type of testing you done(cross and parllel)
+16.how you  will decide the browser that which browser you choose
+17.where you will maintain your testdata
+18.how you will automate captcha
+
